@@ -35,7 +35,6 @@ The data is clean: no missing values and no duplicate rows.
 
 The highest Silhouette Score is at **K = 5 (0.5547)**, consistent with the "elbow" in the Elbow Method.
 
-![Clustering result](images/clusters.png)
 
 | Segment | Avg. Income (k$) | Avg. Spending Score | Avg. Age | Customers |
 | :--- | ---: | ---: | ---: | ---: |
@@ -95,8 +94,6 @@ Python, pandas, NumPy, matplotlib, seaborn, scikit-learn
 ```
 ├── customer_segmentation.ipynb
 ├── Mall_Customers.csv
-├── images/
-│   └── clusters.png
 ├── requirements.txt
 └── README.md
 ```
