@@ -1,6 +1,3 @@
-# customer-segmentation-kmeans
-Grouping 200 mall customers by income and spending behavior with K-Means (Python, scikit-learn)
-
 # Mall Customer Segmentation with K-Means Clustering
 
 Grouping 200 mall customers by income and spending behavior with K-Means (Python, scikit-learn), then turning each group into a business persona with marketing recommendations.
